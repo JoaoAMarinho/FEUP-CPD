@@ -1,0 +1,7 @@
+*/store/data/*.txt
+*/store/storage/*
+!*/store/storage/.empty
+
+.idea/
+*.iml
+out/
