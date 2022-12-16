@@ -1,4 +1,4 @@
-# FEUP-COMP 2021/2022
+# FEUP-CPD 2021/2022
 Distributed system project for the CPD curricular unit.
 
 ### Project Infos
